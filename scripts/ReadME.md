@@ -1,1 +1,1 @@
-[nestagon.com](https://nestagon.com)
+[^1]: This script was designed for mysql database.
