@@ -1,1 +1,1 @@
-[^1]: This script was designed for mysql database.
+[^1] This script was designed for mysql database.
